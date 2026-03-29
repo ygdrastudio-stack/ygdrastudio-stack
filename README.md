@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Patrik
 
-<!--
-**ygdrastudio-stack/ygdrastudio-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Agent Systems Developer
 
-Here are some ideas to get you started:
+I build intelligent multi-agent AI systems that automate complex business workflows. Using orchestration frameworks with 60+ specialized AI agents, I deliver production-grade software at 5-10x the speed of traditional development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build
+
+**AI Agent Systems** - Custom multi-agent orchestration for businesses: autonomous workflows, intelligent document processing, AI-powered decision engines
+
+**Full-Stack Applications** - Rapid MVP development using coordinated AI agent swarms (architect, coder, tester, reviewer agents working simultaneously)
+
+**AI Integrations** - Helping businesses integrate AI into existing processes for maximum automation
+
+### Tech Stack
+
+```
+AI/ML:        Claude API, Gemini API, Multi-Agent Orchestration, Vector Databases
+Frontend:     React, React Native, Next.js, TypeScript
+Backend:      Node.js, Python, REST APIs
+Mobile:       Expo, React Native (Android/iOS)
+Tools:        Claude Code, Ruflo, Git, Docker, Vercel
+```
+
+### Featured Projects
+
+- **AgentFlow** - Open-source multi-agent codebase analyzer (coming soon)
+- **AI Document Intelligence** - SaaS MVP for automated document extraction (coming soon)
+- **Desna Ruka** - AI advisor mobile app powered by Gemini
+
+### Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/patrik-ciprijanovi%C4%87-937966361/
+- Email: ygdrastudio@gmail.com
+
+---
+
+*Building the future of software development, one agent swarm at a time.*
